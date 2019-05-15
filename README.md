@@ -1,24 +1,11 @@
-# README
+# ReactRailsApi
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Sample Drink Recipe Application with a Rails API backend and a react frontend deployed together on heroku
 
-Things you may want to cover:
+You can view the app live at https://fast-waters-99203.herokuapp.com/
 
-* Ruby version
+or login at the backend administration panel to add or edit recipes at https://fast-waters-99203.herokuapp.com/admin
 
-* System dependencies
+email: admin@example.com
+password: 23242324
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
