@@ -1,6 +1,6 @@
 # ReactRailsApi
 
-A Sample Drink Recipe Application with a Rails API backend and a react frontend deployed together on heroku
+A Sample Drink Recipe Application with a Rails API backend, ActiveAdmin and a react frontend deployed together on heroku
 
 You can view the app live at https://fast-waters-99203.herokuapp.com/
 
